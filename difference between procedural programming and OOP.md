@@ -7,7 +7,7 @@
  means that all the components that make up the object are within the object itself. 
  
  ### The diferences between them are as follows<br>
- 1. Procedurl programming uses immutable data while OOP uses mutabe data
+ 1. Procedural programming uses immutable data while OOP uses mutabe data
  2. Procedural programming follows the declarative programming model, OOP follows the imperative programming model
  3. Procedural programming extends support to parallel programming, OOP not suitable for parallel programming
  4. The execution order of statements in procedural programming is not the primary focus, OOP focuses mre on the execution order of statements
